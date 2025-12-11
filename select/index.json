@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ネオラダイト",
+  "base_artist": "9Lana",
+  "createdAt": "2025-12-11T22:42:03.995729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネオラダイト",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/01_ネオラダイト_9Lana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネオラダイト",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_ネオラダイト_9Lana.txt"
+    }
+  ]
+}
